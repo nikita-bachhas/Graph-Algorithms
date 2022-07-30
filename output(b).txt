@@ -1,0 +1,9 @@
+0 -> 6353 -> 6364 -> 6373 -> 6401
+The distance to the nearest hospital is 4 node(s).
+
+1 -> 0 -> 6353 -> 6364 -> 6373 -> 6401
+The distance to the nearest hospital is 5 node(s).
+
+2 -> 4 -> 388 -> 4005 -> 3982 -> 3973
+The distance to the nearest hospital is 5 node(s).
+
