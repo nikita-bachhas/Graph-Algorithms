@@ -2,6 +2,7 @@
 Implemented Breadth First Search (BFS) algorithm when traversing through tree or graph data structures when searching for the nearest hospital in a locality map
 
 ## Problem Statement 
+In a given number of nodes (i.e. the locality map), traverse the neighbouring nodes to find the nearest hospital node from a starting node 
 
 ## Functionality
 
